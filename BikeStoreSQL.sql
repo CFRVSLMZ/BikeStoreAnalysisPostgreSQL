@@ -4,15 +4,6 @@
 ==================================================================================
 This script contains all SQL queries used for the BikeStores analytics project.
 
-The queries are grouped into several categories:
-1.  Store and Sales Performance
-2.  Product and Inventory Analysis
-3.  Customer Behavior Analysis
-4.  Staff (HR) Analysis
-5.  Advanced Analytics and Trends
-*/
-
-
 -- ==================================================================
 -- 1. Total Orders by Store
 -- ==================================================================
